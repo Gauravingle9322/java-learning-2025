@@ -1,38 +1,17 @@
-# Core Java Practice 🚀
+# Java Learning 2025 🚀
 
-This repository contains my **daily practice programs** while learning Core Java.  
-I am uploading small to medium programs every day to build strong fundamentals.
-
----
-
-## 👨‍💻 About Me
-Hi, I am **Gaurav Ingle (Tech Explorer)**, currently pursuing MCA (1st year).  
-I am passionate about **Java, Web Development, and AI/ML**, and I am sharing my daily learning journey here.
+This repository contains my daily Java practice programs.  
+Each day I will add new concepts with examples to improve my Java skills.
 
 ---
 
-## 📚 Topics Covered
-- ✅ Basics of Java (Hello World, Variables, Data Types)  
-- ✅ Control Statements (if-else, switch, loops)  
-- ⏳ Arrays & Strings  
-- ⏳ Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)  
-- ⏳ Exception Handling  
-- ⏳ File Handling  
-- ⏳ Collections Framework  
-
-*(✅ = completed, ⏳ = in progress)*
-
----
-
-## 📅 Daily Progress
-- **Day 01:** Hello World, Variables  
-- **Day 02:** If-Else, Switch  
-- **Day 03:** For, While, Do-While loops  
-- *(will keep updating daily...)*
-
----
-
-## ⚡ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gauravingle/core-java-practice.git
+## 📂 Folder Structure
+java-learning-2025/
+│
+├── basics/
+│ ├── HelloWorld.java # Day 01 - First Java program
+│ ├── Variables.java # Day 02 - Variables in Java
+│ └── (more coming soon...)
+│
+├── .gitignore
+└── README.md
