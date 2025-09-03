@@ -6,7 +6,7 @@ I am uploading small to medium programs every day to build strong fundamentals.
 ---
 
 ## 👨‍💻 About Me
-Hi, I am **Gaurav Ingle (Tech Explorer)**, currently pursuing BCA (3rd year).  
+Hi, I am **Gaurav Ingle (Tech Explorer)**, currently pursuing MCA (1st year).  
 I am passionate about **Java, Web Development, and AI/ML**, and I am sharing my daily learning journey here.
 
 ---
