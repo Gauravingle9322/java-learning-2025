@@ -22,5 +22,14 @@ class Loops {
             System.out.println("Do-While Loop Iteration: " + k);
             k++;
         } while (k <= 5);
+
+        // Nested For Loop
+    System.out.println("Nested For Loop (Multiplication Table of 1 to 3):");
+    for (int row = 1; row <= 3; row++) {
+    for (int col = 1; col <= 5; col++) {
+        System.out.print(row * col + "\t");
     }
+    System.out.println();
+    }
+  }
 }
