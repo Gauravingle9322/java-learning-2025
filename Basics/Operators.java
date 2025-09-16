@@ -1,4 +1,3 @@
-// OperatorsDemo.java
 // Demonstrates different types of operators in Java
 
 public class Operators {
