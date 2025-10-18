@@ -1,0 +1,3 @@
+Hello from BufferedStreamDemo!
+This file is written using BufferedWriter.
+Buffered streams improve performance.

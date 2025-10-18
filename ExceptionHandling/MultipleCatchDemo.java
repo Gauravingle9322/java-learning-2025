@@ -8,6 +8,7 @@ public class MultipleCatchDemo {
 
             // ArithmeticException
             int num = 10 / 0;
+            System.out.println("Result of division: " + num);
 
             // ArrayIndexOutOfBoundsException
             arr[5] = 50;

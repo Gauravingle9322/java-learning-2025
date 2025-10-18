@@ -9,7 +9,7 @@ class Student {
     static String college = "ASM College"; // static variable
 
     // Constructor using 'this'
-    Student(String name, int age) {
+    Student (String name, int age) {
         this.name = name; // 'this' points to current object's variable
         this.age = age;
     }

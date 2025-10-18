@@ -3,21 +3,21 @@
 
 public class WrapperClassesDemo {
     public static void main(String[] args) {
-        // ✅ Autoboxing: converting primitive -> wrapper object
+        //Autoboxing: converting primitive -> wrapper object
         int num = 10;
         Integer obj = num; // auto conversion
         System.out.println("Autoboxing Example:");
         System.out.println("Primitive int: " + num);
         System.out.println("Wrapper Integer object: " + obj);
 
-        // ✅ Unboxing: converting wrapper object -> primitive
+        //Unboxing: converting wrapper object -> primitive
         Integer numberObj = 25;
         int primitiveNum = numberObj; // auto conversion
         System.out.println("\nUnboxing Example:");
         System.out.println("Wrapper Integer: " + numberObj);
         System.out.println("Primitive int: " + primitiveNum);
 
-        // ✅ Using wrapper class methods
+        // Using wrapper class methods
         System.out.println("\nWrapper Class Methods:");
         System.out.println("Binary of 10: " + Integer.toBinaryString(num));
         System.out.println("Max Value of Integer: " + Integer.MAX_VALUE);
