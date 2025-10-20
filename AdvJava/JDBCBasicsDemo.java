@@ -4,7 +4,7 @@ public class JDBCBasicsDemo {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/testdb"; // Your DB name
         String user = "root"; // Your MySQL username
-        String password = "yourpassword"; // Your MySQL password
+        String password = "pass123"; // Your MySQL password
 
         try {
             // Load and Register Driver
@@ -36,3 +36,7 @@ public class JDBCBasicsDemo {
         }
     }
 }
+
+// Topic : JDBC (Java Database Connectivity)
+
+// Description : Connect Java to MySQL, insert, update, delete, read data.
